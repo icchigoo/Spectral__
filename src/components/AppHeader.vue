@@ -6,7 +6,7 @@
         class="text-white font-bold uppercase text-2xl mr-4"
         :to="{ name: 'home' }"
         exact-active-class="no-active-color"
-        >Music</router-link
+        >Spectracl</router-link
       >
 
       <div class="flex flex-grow items-center">
