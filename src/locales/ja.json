@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "素晴らしい音楽を聴こう！"
+  },
+  "song": {
+    "comment_count": "コメントはありません | 1 コメント | {count} コメント"
+  },
+  "register": {
+    "accept": "I accept music's {0}",
+    "tos": "利用規約"
+  },
+  "manage": {
+    "my_songs": "私の歌"
+  }
+}
