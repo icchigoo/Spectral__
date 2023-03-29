@@ -87,10 +87,10 @@
         name="country"
         class="block w-full py-1.5 px-3 text-gray-800 border border-gray-300 transition duration-500 focus:outline-none focus:border-black rounded"
       >
-        <option value="USA">USA</option>
-        <option value="Mexico">Mexico</option>
-        <option value="Germany">Germany</option>
-        <option value="Afganistan">Afganistan</option>
+        <option value="USA">Nepal</option>
+        <option value="Mexico">USA</option>
+        <option value="Germany">India</option>
+        <option value="Afganistan">UK</option>
       </vee-field>
       <ErrorMessage name="country" class="text-red-600" />
     </div>
