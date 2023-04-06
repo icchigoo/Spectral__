@@ -45,6 +45,7 @@ import { mapStores, mapActions } from 'pinia'
 import useModalStore from '@/stores/modal'
 import useUserStore from '@/stores/user'
 
+
 export default {
   name: 'AppHeader',
   data() {
